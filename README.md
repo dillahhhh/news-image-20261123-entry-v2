@@ -2,7 +2,7 @@
 
 [![news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123)
 [![rank](https://make.fun/badge/news-image-20261123/dillahhhh/news-image-20261123-entry-v2/rank.svg)](https://make.fun/bounty/news-image-20261123)
-[![reward](https://make.fun/badge/news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/dillahhhh/news-image-20261123-entry-v2/reward.svg)](https://make.fun/bounty/news-image-20261123)
 
 Satu gambar yang merangkum berita dunia Senin, 23 November 2026: 34 cerita
 dalam satu halaman koran berbahasa Indonesia — dari serangan tanker di Selat
